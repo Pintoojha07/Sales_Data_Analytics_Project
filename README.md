@@ -1,3 +1,7 @@
+
+## Dashboard Preview
+
+![Sales Analytics Dashboard](dashboard_screenshot.png)
 # Sales Data Analytics Dashboard
 
 ## Project Overview
